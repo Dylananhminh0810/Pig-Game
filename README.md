@@ -12,3 +12,5 @@ Click new game and the infomation is reset.
 
 The screen when a player win.
 ![image](https://github.com/user-attachments/assets/7cf0acc9-2f29-437a-9473-6be56c83ab2a)
+
+!Note: You need to click "new game" first to play. Once a player win, you cannot continue to roll the dice or hold points. I did that with flag variable. I did not command for each line so it's better to read the flowchart to understand what I wrote.
